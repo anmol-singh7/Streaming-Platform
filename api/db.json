@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "sdcdscscsdc",
+      "description": "dscsc",
+      "id": 1
+    },
+    {
+      "title": "aa",
+      "description": "bb",
+      "id": 2
+    },
+    {
+      "title": "programatic Navigation",
+      "description": "you should not see this on the form page",
+      "userId": "111727989941553383805",
+      "id": 5
+    },
+    {
+      "title": "My stream",
+      "description": "first stream",
+      "userId": "111727989941553383805",
+      "id": 6
+    },
+    {
+      "title": "my first stream",
+      "description": "Second account",
+      "userId": "104580543151513620718",
+      "id": 7
+    }
+  ]
+}
